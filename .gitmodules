@@ -3,4 +3,4 @@
 	url = https://github.com/lopesivan/latex.git
 [submodule "vagrant"]
 	path = vagrant
-	url = https://github.com/lopesivan/vagrant.git
+	url = git://github.com/lopesivan/vagrant.git
