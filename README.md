@@ -17,4 +17,8 @@ Adicionando módulo docker:
 git submodule add git://github.com/lopesivan/docker.git
 ``
 
+Adicionando módulo gegl:
+``
+git submodule add git://github.com/lopesivan/gegl.git
+
 [Referência git sobre submódulos](http://chrisjean.com/2009/04/20/git-submodules-adding-using-removing-and-updating/)
