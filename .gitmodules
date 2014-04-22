@@ -10,3 +10,6 @@
 [submodule "gegl"]
 	path = gegl
 	url = git://github.com/lopesivan/gegl.git
+[submodule "gimp"]
+	path = gimp
+	url = git://github.com/lopesivan/gimp.git
