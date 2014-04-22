@@ -27,4 +27,9 @@ Adicionando módulo gimp:
 git submodule add git://github.com/lopesivan/gimp.git
 ``
 
+Adicionando módulo ffmpeg-with-c-and-cpp:
+``
+git submodule add git://github.com/lopesivan/ffmpeg-with-c-and-cpp.git
+``
+
 [Referência git sobre submódulos](http://chrisjean.com/2009/04/20/git-submodules-adding-using-removing-and-updating/)
