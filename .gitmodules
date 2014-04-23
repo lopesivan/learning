@@ -16,3 +16,6 @@
 [submodule "ffmpeg-with-c-and-cpp"]
 	path = ffmpeg-with-c-and-cpp
 	url = git://github.com/lopesivan/ffmpeg-with-c-and-cpp.git
+[submodule "math"]
+	path = math
+	url = git://github.com/lopesivan/math.git
