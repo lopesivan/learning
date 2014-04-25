@@ -19,3 +19,18 @@
 [submodule "math"]
 	path = math
 	url = git://github.com/lopesivan/math.git
+[submodule "android-archetypes"]
+	path = android-archetypes
+	url = git://github.com/lopesivan/android-archetypes.git
+[submodule "autotools"]
+	path = autotools
+	url = git://github.com/lopesivan/autotools.git
+[submodule "servlet3-maven-archetype"]
+	path = servlet3-maven-archetype
+	url = git://github.com/lopesivan/servlet3-maven-archetype.git
+[submodule "console-maven-archetype"]
+	path = console-maven-archetype
+	url = git://github.com/lopesivan/console-maven-archetype.git
+[submodule "spring-mvc-quickstart-archetype"]
+	path = spring-mvc-quickstart-archetype
+	url = git://github.com/lopesivan/spring-mvc-quickstart-archetype.git
