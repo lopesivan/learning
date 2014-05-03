@@ -32,4 +32,9 @@ Adicionando módulo ffmpeg-with-c-and-cpp:
 git submodule add git://github.com/lopesivan/ffmpeg-with-c-and-cpp.git
 ``
 
+``
+git submodule init && git submodule update
+``
+
 [Referência git sobre submódulos](http://chrisjean.com/2009/04/20/git-submodules-adding-using-removing-and-updating/)
+
